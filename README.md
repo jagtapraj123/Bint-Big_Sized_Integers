@@ -21,7 +21,7 @@
 General integers are of 32-bits size. Long integer are of 64-bit size. 
 These integers are stored in 32-bit or 64-bit registers while computations. Hence they are of limited size.
 
-Signed 32-bit integer can take value between $$-(2^{32-1}-1)$$ and $(2^{32-1}-1)$ i.e. $-2,147,483,647$ and $2,147,483,647$. But 2 billion is not a big value while doing scientific calculations.
+Signed 32-bit integer can take value between $-(2^{32-1}-1)$ and $(2^{32-1}-1)$ i.e. $-2,147,483,647$ and $2,147,483,647$. But 2 billion is not a big value while doing scientific calculations.
 
 We can use float or double which can go upto larger range. But float operations are more computationally expensive (takes more time) and converting value to to floating looses precision.
 
