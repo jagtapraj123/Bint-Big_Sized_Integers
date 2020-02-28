@@ -2,6 +2,20 @@
 
 **bint** is a c++ class which is designed to overcome the limitations of integers.
 
+## Table of Contents
+- [Bint (Big Sized Integer)](#bint-big-sized-integer)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Initialization](#initialization)
+    - [Arithmatic Operations](#arithmatic-operations)
+    - [Comprisons](#comprisons)
+    - [Print](#print)
+    - [Extras](#extras)
+  - [Contributing](#contributing)
+  - [License](#license)
+
 ## Overview
 
 General integers are of 32-bits size. Long integer are of 64-bit size. 
