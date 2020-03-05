@@ -1,3 +1,11 @@
+latex input:    mmd-article-header  
+Title:          MultiMarkdown Math Example  
+latex input:    mmd-article-begin-doc  
+latex footer:   mmd-memoir-footer  
+HTML header:    <script type="text/javascript"
+                src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+                </script>
+                
 # Bint (Big Sized Integer)
 
 **bint** is a c++ class which is designed to overcome the limitations of integers.
